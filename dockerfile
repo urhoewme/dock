@@ -7,3 +7,5 @@ COPY files /JSCOURSE/Serv/
 RUN chown -R www-data:www-data /JSCOURSE/Serv
 
 EXPOSE 80
+
+# hellowoe
